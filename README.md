@@ -1,1 +1,1 @@
-# A simple website that can spam Reactions and Infinite Typing.
+# A simple website that can spam Reactions and do Infinite Typing.
